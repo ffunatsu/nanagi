@@ -22,7 +22,7 @@
 
 ## 設定ファイル
 
-- やまぶきR（Windows）: [薙刀式v18_中指シフト.yab](https://github.com/ffunatsu/nanagi/blob/main/%E8%96%99%E5%88%80%E5%BC%8Fv18_%E4%B8%AD%E6%8C%87%E3%82%B7%E3%83%95%E3%83%88.yab)
+- やまぶきR（Windows）: [薙刀式v18_中指シフト.yab](https://github.com/ffunatsu/nanagi/blob/main/%E8%96%99%E5%88%80%E5%BC%8Fv18_%E4%B8%AD%E6%8C%87%E3%82%B7%E3%83%95%E3%83%88.yab) [^1]
 - Karabiner-Elements（Mac）: [薙刀式v18_中指シフト.karabiner.json](https://github.com/ffunatsu/nanagi/blob/main/%E8%96%99%E5%88%80%E5%BC%8Fv18_%E4%B8%AD%E6%8C%87%E3%82%B7%E3%83%95%E3%83%88.karabiner.json)
 - [obsidian-hechima](https://github.com/msonrm/obsidian-hechima) （Win/Mac/Linux/iOS/Android/ChromeOS）: [薙刀式v18_中指シフト.hechima.json](https://github.com/ffunatsu/nanagi/blob/main/%E8%96%99%E5%88%80%E5%BC%8Fv18_%E4%B8%AD%E6%8C%87%E3%82%B7%E3%83%95%E3%83%88.hechima.json)
 
@@ -53,3 +53,5 @@ Karabiner-Elements版との違いは、スペースキー（SandS）の連続シ
 このリポジトリ上の配布物については、CC0 とします。
 
 ただし、[Hachiku-naka](https://github.com/ffunatsu/Hachiku-naka)と[Benkei_naka](https://github.com/ffunatsu/Benkei_naka)についてはライセンスが全く異なるため、各リポジトリを確認してください。
+
+[^1]: やまぶきRでは通常キーの3打同時押しが使えないので、濁音拗音拡張は濁音キーの代わりに左親指シフトキー、半濁音拗音拡張は半濁音キーの代わりに右親指シフトキーとの同時押しに変化しています。
