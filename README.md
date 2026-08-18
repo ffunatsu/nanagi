@@ -8,6 +8,12 @@
 
 （基本的には、スペースの代わりにD/Kとの同時押しが使えます。「や/ゆ/よ」は「C」との同時押し、「に」= `D + F`、「の」 = `J + K` です。）
 
+## 設定ファイル
+
+- やまぶきR（Windows）: [`.yab`](https://github.com/ffunatsu/nanagi/blob/main/%E8%96%99%E5%88%80%E5%BC%8Fv18_%E4%B8%AD%E6%8C%87%E3%82%B7%E3%83%95%E3%83%88.yab)
+- Karabiner-Elements（Mac）: [`.karabiner.json`](https://github.com/ffunatsu/nanagi/blob/main/%E8%96%99%E5%88%80%E5%BC%8Fv18_%E4%B8%AD%E6%8C%87%E3%82%B7%E3%83%95%E3%83%88.karabiner.json)
+- [obsidian-hechima](https://github.com/msonrm/obsidian-hechima) （Win/Mac/Linux/iOS/Android/ChromeOS）: [`.hechima.json`](https://github.com/ffunatsu/nanagi/blob/main/%E8%96%99%E5%88%80%E5%BC%8Fv18_%E4%B8%AD%E6%8C%87%E3%82%B7%E3%83%95%E3%83%88.hechima.json)
+
 ## Hachiku-naka（Windows用）
 
 https://github.com/ffunatsu/Hachiku-naka
@@ -25,7 +31,6 @@ Karabiner-Elements版との違いは、スペースキー（SandS）の連続シ
 
 ## その他メモ
 
-- [`.hechima.json`](https://github.com/ffunatsu/nanagi/blob/main/%E8%96%99%E5%88%80%E5%BC%8Fv18_%E4%B8%AD%E6%8C%87%E3%82%B7%E3%83%95%E3%83%88.hechima.json) は [obsidian-hechima](https://github.com/msonrm/obsidian-hechima) 用です。
 - Karabiner-Elements版（ [`.karabiner.json`](https://github.com/ffunatsu/nanagi/blob/main/%E8%96%99%E5%88%80%E5%BC%8Fv18_%E4%B8%AD%E6%8C%87%E3%82%B7%E3%83%95%E3%83%88.karabiner.json) ）では、スペースキーの連続シフトが使えませんが、中指シフトを併用すれば大きな弊害はないと思います。
   - 一応 [Benkei](https://github.com/ffunatsu/Benkei) を中指薙刀式にフォークすることを検討していますが、未定です。
 - HachikuとBenkeiは、固有名詞の登録など、様々な薙刀式特有の設定が可能です。編集レイヤーなどが使いたい場合はそちらを使ってください。
