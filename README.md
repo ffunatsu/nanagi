@@ -22,9 +22,9 @@
 
 ## 設定ファイル
 
-- やまぶきR（Windows）: [薙刀式v18_中指シフト.yab](%E8%96%99%E5%88%80%E5%BC%8Fv18_%E4%B8%AD%E6%8C%87%E3%82%B7%E3%83%95%E3%83%88.yab) [^1]
-- Karabiner-Elements（Mac）: [薙刀式v18_中指シフト.karabiner.json](%E8%96%99%E5%88%80%E5%BC%8Fv18_%E4%B8%AD%E6%8C%87%E3%82%B7%E3%83%95%E3%83%88.karabiner.json)
-- [obsidian-hechima](https://github.com/msonrm/obsidian-hechima) （Win/Mac/Linux/iOS/Android/ChromeOS）: [薙刀式v18_中指シフト.hechima.json](%E8%96%99%E5%88%80%E5%BC%8Fv18_%E4%B8%AD%E6%8C%87%E3%82%B7%E3%83%95%E3%83%88.hechima.json)
+- やまぶきR（Windows）: [薙刀式v18_中指シフト.yab](薙刀式v18_中指シフト.yab) / [タイピングゲーム用](薙刀式v18_中指シフト_タイピングゲーム用.yab) [^1]
+- Karabiner-Elements（Mac）: [薙刀式v18_中指シフト.karabiner.json](薙刀式v18_中指シフト.karabiner.json) / [タイピングゲーム用](薙刀式v18_中指シフト_タイピングゲーム用.karabiner.json) 
+- [obsidian-hechima](https://github.com/msonrm/obsidian-hechima) （Win/Mac/Linux/iOS/Android/ChromeOS）: [薙刀式v18_中指シフト.hechima.json](薙刀式v18_中指シフト.hechima.json)
 - Hachiku (Windows): [Hachiku-naka](https://github.com/ffunatsu/Hachiku-naka)
 - Benkei (Mac): [Benkei_naka](https://github.com/ffunatsu/Benkei_naka)
 
@@ -45,9 +45,9 @@ Karabiner-Elements版との違いは、スペースキー（SandS）の連続シ
 
 ## その他メモ
 
-- やまぶきR用の [`.yab`](%E8%96%99%E5%88%80%E5%BC%8Fv18_%E4%B8%AD%E6%8C%87%E3%82%B7%E3%83%95%E3%83%88.yab) は、**UTF-16LEかShift-JISで保存しないと動作しません**。
+- やまぶきR用の [`.yab`](薙刀式v18_中指シフト.yab) は、**UTF-16LEかShift-JISで保存しないと動作しません**。
   - また、やまぶきRでは、左親指シフトをスペースキーとして設定してください。右親指シフトキーは変換キーなどがおすすめで、拗音拡張時に利用することになります。[^1]
-- Karabiner-Elements版（ [`.karabiner.json`](%E8%96%99%E5%88%80%E5%BC%8Fv18_%E4%B8%AD%E6%8C%87%E3%82%B7%E3%83%95%E3%83%88.karabiner.json) ）では、スペースキーの連続シフトが使えませんが、中指シフトを併用すれば大きな弊害はないと思います。
+- Karabiner-Elements版（ [`.karabiner.json`](薙刀式v18_中指シフト.karabiner.json) ）では、スペースキーの連続シフトが使えませんが、中指シフトを併用すれば大きな弊害はないと思います。
   - 一応 [Benkei](https://github.com/ffunatsu/Benkei) を中指薙刀式にフォークすることを検討していますが、未定です。
 - HachikuとBenkeiは、固有名詞の登録など、様々な薙刀式特有の設定が可能です。編集レイヤーなどが使いたい場合はそちらを使ってください。
 
