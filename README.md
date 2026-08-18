@@ -55,6 +55,6 @@ Karabiner-Elements版との違いは、スペースキー（SandS）の連続シ
 
 このリポジトリ上の配布物については、CC0 とします。
 
-ただし、[Hachiku-naka](https://github.com/ffunatsu/Hachiku-naka)と[Benkei_naka](https://github.com/ffunatsu/Benkei_naka)については**ライセンスが全く異なる**ため、各リポジトリを確認してください。
+ただし、[Hachiku-naka](https://github.com/ffunatsu/Hachiku-naka) と [Benkei_naka](https://github.com/ffunatsu/Benkei_naka) については**ライセンスが全く異なる**ため、各リポジトリを確認してください。
 
 [^1]: やまぶきRでは通常キーの3打同時押しが使えないので、濁音拗音拡張は濁音キーの代わりに左親指シフトキー、半濁音拗音拡張は半濁音キーの代わりに右親指シフトキーとの同時押しとして定義しています。
