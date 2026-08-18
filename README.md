@@ -53,7 +53,7 @@ Karabiner-Elements版との違いは、スペースキー（SandS）の連続シ
 
 ## License
 
-このリポジトリ上の配布物については、CC0 とします。
+このリポジトリ上の配布物については、[CC0](https://github.com/ffunatsu/nanagi/blob/main/LICENSE) とします。
 
 ただし、[Hachiku-naka](https://github.com/ffunatsu/Hachiku-naka) と [Benkei_naka](https://github.com/ffunatsu/Benkei_naka) については**ライセンスが全く異なる**ため、各リポジトリを確認してください。
 
