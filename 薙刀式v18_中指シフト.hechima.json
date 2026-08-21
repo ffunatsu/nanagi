@@ -253,7 +253,6 @@
         "V+M": "enter",
         "F+B": "insertAndConfirm:「」",
         "H+J": "switchToJapanese",
-        "I+J": "insertAndConfirm:（）",
         "F+V": "insertAndConfirm:！",
         "N+J": "insertAndConfirm:？"
       },
