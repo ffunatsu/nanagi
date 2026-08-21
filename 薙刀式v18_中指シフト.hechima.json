@@ -243,7 +243,6 @@
         "F+G": "switchToEnglish",
         "M+V": "confirm",
         "D+M": "insertAndConfirm:。",
-        "K+M": "insertAndConfirm:。",
         "holder1+M": "insertAndConfirm:。",
         "K+T": "editSegmentLeft",
         "K+V": "insertAndConfirm:、",
